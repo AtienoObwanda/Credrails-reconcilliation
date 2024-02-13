@@ -1,0 +1,4 @@
+Type,Record Identifier,Field,Source Value,Target Value
+Missing in Target,003,,,
+Missing in Source,,004,,
+Field Discrepancy,002,Date,2023-01-02,2023-01-04
