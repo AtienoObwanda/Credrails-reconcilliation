@@ -1,11 +1,11 @@
 # Credrails Reconcilliation Program
----
+
 
 This is a tool that will read in two CSV files (termed "source" and "target"), reconcile the records, and produce a report detailing the differences between the two.
 
 
 # Step-by-Step Instructions to Run the CSV Reconciliation Tool
----
+
 ### Step 1: Clone the Repository
 Clone the repository containing the CSV reconciliation tool to your local machine. You can do this by running the following command in your terminal:
 SSH:
